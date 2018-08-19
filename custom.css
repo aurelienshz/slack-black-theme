@@ -981,3 +981,13 @@ ts-jumper, ts-jumper.active {
 ts-jumper ts-jumper-container {
   box-shadow: 0 5px 20px rgba(0,0,0,1);
 }
+
+
+
+#messages_container div.c-message {
+    background: var(--background);
+}
+
+#messages_container div.c-message span.c-message__body {
+    color: var(--text);
+}
